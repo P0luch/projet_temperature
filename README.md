@@ -1,6 +1,7 @@
 # projet_temperature
 
 Projet réalisé dans le cadre de la formation data analyst [datascientest.com](https://datascientest.com/formation-data-analyst)
+
 Soutenu le 13 novembre 2025
 
 Exploration et visualisation des données 
